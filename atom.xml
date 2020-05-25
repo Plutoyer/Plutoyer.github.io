@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Plutoyer.github.io</id>
     <title>Plutoyer Blog</title>
-    <updated>2020-05-22T15:54:45.444Z</updated>
+    <updated>2020-05-25T12:54:33.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Plutoyer.github.io"/>
     <link rel="self" href="https://Plutoyer.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://Plutoyer.github.io/images/avatar.png</logo>
     <icon>https://Plutoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plutoyer Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-5-25分享]]></title>
+        <id>https://Plutoyer.github.io/post/2020-5-25-fen-xiang/</id>
+        <link href="https://Plutoyer.github.io/post/2020-5-25-fen-xiang/">
+        </link>
+        <updated>2020-05-25T12:50:33.000Z</updated>
+        <content type="html"><![CDATA[<p>一、美句分享<br>
+大部分人的爱情对象也只是存在于自己的想象之中。他们所爱的并不是现实中的她（他），而只是想象中的她（他），现实中的她（他）只是他们创造梦中情人的一个模板，他们迟早会发现梦中情人与模板之间的差异，如果适应这种差异他们就会走到一起，无法适应就分开，就这么简单。</p>
+<p>二、今日演讲<br>
+<a href="https://open.163.com/newview/movie/free?pid=MFB8SVNPR&amp;mid=MFB8TL9A8">听见你的声音——耳朵是如何工作的</a></p>
+<p>三、今日科普</p>
+<iframe src="//player.bilibili.com/player.html?aid=200811539&bvid=BV1mz411v7Cb&cid=194707282&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<p>四、今日推荐</p>
+<ul>
+<li><a href="https://github.com/lvyueyang/web-music">一个简单的音乐播放器，播放周杰伦的歌曲</a></li>
+<li><a href="http://r.ftqq.com/howto-make-more-money/">程序员如何优雅的赚零花钱：不仅仅适合程序员群体，书籍中的思想可以套用很多群体。</a></li>
+<li><a href="https://tu.acgbox.org/">acgbox 妹子图：重新开始运营，图片还是去年倒闭时的资源，部分内容密码：acgbox</a></li>
+<li><a href="https://techlacarte.com/">一个国外各大会员分享网站,Netflix,Hulu等</a></li>
+<li><a href="https://ztftrue.github.io/BookReader/">一个在线阅读的工具, 支持 ebup, mobi</a></li>
+</ul>
+<p>五、今日歌曲<br>
+<a href="https://music.163.com/song/media/outer/url?id=1297750769.mp3">有人</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一文（2020-5-22）]]></title>
         <id>https://Plutoyer.github.io/post/mei-ri-yi-wen-2020-5-22/</id>
