@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Plutoyer.github.io</id>
     <title>Plutoyer Blog</title>
-    <updated>2020-05-25T13:05:27.752Z</updated>
+    <updated>2020-05-26T13:28:34.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Plutoyer.github.io"/>
     <link rel="self" href="https://Plutoyer.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://Plutoyer.github.io/images/avatar.png</logo>
     <icon>https://Plutoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plutoyer Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-5-26分享]]></title>
+        <id>https://Plutoyer.github.io/post/2020-5-26-fen-xiang/</id>
+        <link href="https://Plutoyer.github.io/post/2020-5-26-fen-xiang/">
+        </link>
+        <updated>2020-05-26T13:26:18.000Z</updated>
+        <content type="html"><![CDATA[<p>一、美句分享<br>
+当改变命运的时刻降临，犹豫就会败北。</p>
+<p>二、今日演讲<br>
+<a href="https://www.ted.com/talks/robin_steinberg_what_if_we_ended_the_injustice_of_bail?rid=LMV0A06fBvlE">what if we ended the injustice of bail</a></p>
+<p>三、今日科普</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/En2GKUD1ty0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>四、今日推荐</p>
+<ul>
+<li><a href="https://lanzous.com/b0f1awgqb">磁力下载神器合集</a></li>
+<li><a href="http://pianyuan.org/">一个电影和剧集下载的网站</a></li>
+<li><a href="http://dust-sounds.com/">一个专门存储声音材料（例如循环音乐，BGM和声音效果）的网站</a></li>
+<li><a href="https://www.nni5.com/vip.html">vip 在线解析网站：界面比较简洁清爽</a></li>
+<li><a href="https://surveys.adguard.com/beta_testing_program/form.html">adguard beta：填写申请表单即可获取 adguard beta 申请两天左右通过</a></li>
+</ul>
+<p>五、今日歌曲</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=478596258&auto=0&height=66"></iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一文（2020-5-25）]]></title>
         <id>https://Plutoyer.github.io/post/mei-ri-yi-wen-2020-5-25/</id>
