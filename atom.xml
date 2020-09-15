@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Plutoyer.github.io</id>
     <title>Plutoyer Blog</title>
-    <updated>2020-06-10T11:45:34.807Z</updated>
+    <updated>2020-09-15T13:48:59.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Plutoyer.github.io"/>
     <link rel="self" href="https://Plutoyer.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://Plutoyer.github.io/images/avatar.png</logo>
     <icon>https://Plutoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plutoyer Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-9-15分享]]></title>
+        <id>https://Plutoyer.github.io/post/2020-9-15-fen-xiang/</id>
+        <link href="https://Plutoyer.github.io/post/2020-9-15-fen-xiang/">
+        </link>
+        <updated>2020-09-15T13:44:17.000Z</updated>
+        <content type="html"><![CDATA[<p>一、美句分享<br>
+温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。</p>
+<p>二、今日演讲<br>
+<a href="http://open.163.com/newview/movie/free?pid=MFKEH5K03&amp;mid=MFKEIBHA1">让我们设计能够实现真正变革的社交媒体</a></p>
+<p>三、今日科普</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JANiC1z40gk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>四、今日推荐</p>
+<ul>
+<li><a href="https://dongci.kawo.com/">动次：快速截取视频精彩画面并转换 GIF</a></li>
+<li><a href="https://api.zzux.net/189/">天翼云盘免登陆网页解析：无需登录天翼云盘可直接解析下载地址，稳定性未知，目前可用。</a></li>
+<li><a href="https://haoduck.com/489.html">利用 namecheap 免费获得无限别名域名邮箱</a></li>
+<li><a href="https://apps.apple.com/cn/app/%E8%A7%A3%E5%8E%8B%E4%B8%93%E5%AE%B6-oka-%E4%BA%91%E7%9B%98%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E8%A7%A3%E5%8E%8B%E5%8A%A9%E6%89%8B-%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1456558069">oka 解压：一款还不错的 Mac、iOS 平台解压缩软件，目前限免中可以免费内购获取终身版本，直接在 AppStore 中搜索 oka</a></li>
+<li><a href="http://www.yeyulingfeng.com/">夜雨聆风：一个不错的软件下载站，比较良心。</a></li>
+</ul>
+<p>五、今日歌曲</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1470352546&auto=1&height=66"></iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一文（2020-6-10）]]></title>
         <id>https://Plutoyer.github.io/post/mei-ri-yi-wen-2020-6-10/</id>
