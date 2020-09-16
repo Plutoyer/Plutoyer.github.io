@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Plutoyer.github.io</id>
     <title>Plutoyer Blog</title>
-    <updated>2020-09-15T13:51:41.755Z</updated>
+    <updated>2020-09-16T05:57:51.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Plutoyer.github.io"/>
     <link rel="self" href="https://Plutoyer.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://Plutoyer.github.io/images/avatar.png</logo>
     <icon>https://Plutoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plutoyer Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-9-16分享]]></title>
+        <id>https://Plutoyer.github.io/post/2020-9-16-fen-xiang/</id>
+        <link href="https://Plutoyer.github.io/post/2020-9-16-fen-xiang/">
+        </link>
+        <updated>2020-09-16T05:50:48.000Z</updated>
+        <content type="html"><![CDATA[<p>一、美句分享<br>
+想与你饮冰，和你零度看风景，想和你一起走过布宜诺斯艾利斯，绕过密西西比河。去东南亚冲浪，去魁北克滑雪。人类的一生何其漫长，可以历经多少年代，穿越多少战争与和平。而我这一生有很多事情都期待和你一起完成。如果这些都太远，就希望今年的春节也能一边瑟瑟发抖一边和你互道晚安。</p>
+<p>二、今日演讲<br>
+<a href="https://open.163.com/newview/movie/free?pid=MEV9FTEAU&amp;mid=MF5FA49RA#share-mob">如何成为一个有趣的灵魂？</a></p>
+<p>三、今日科普</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gtFSBftabeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>四、今日推荐</p>
+<ul>
+<li><a href="http://www.oy37.com/">欧亚影视：欧亚影视改版后看起来还可以，手动更新热门高分影视资源，算是有特色的免费无广告在线影视站。</a></li>
+<li><a href="https://233.fi/explore/trending">lala 图库：一个不错的图库，在保持社会主义核心价值的同时图片又不乏看点。</a></li>
+<li><a href="https://weread.qq.com/#login">微信读书网页版：微信读书网页版现在支持 txt/epub 上传了。可以在网页中阅读上传的小说啦！微信读书网页版，配合 kindle 等墨水屏设备 在浏览器中输入微信读书网页版网址，也有很好的体验。</a></li>
+<li><a href="https://zaix.ru/">zaix.ru：一个俄罗斯网盘</a></li>
+<li><a href="https://whatz2333.top/?id=3">夏冬免费主机：免费的美国、德国、日本虚拟主机，可用于学习网站搭建用途。</a></li>
+</ul>
+<p>五、今日歌曲</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22766780&auto=0&height=66"></iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一文（2020-9-15）]]></title>
         <id>https://Plutoyer.github.io/post/mei-ri-yi-wen-2020-9-15/</id>
