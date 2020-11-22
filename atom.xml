@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Plutoyer.github.io</id>
     <title>Plutoyer Blog</title>
-    <updated>2020-09-24T04:16:00.673Z</updated>
+    <updated>2020-11-22T12:39:27.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Plutoyer.github.io"/>
     <link rel="self" href="https://Plutoyer.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://Plutoyer.github.io/images/avatar.png</logo>
     <icon>https://Plutoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plutoyer Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-11-22分享]]></title>
+        <id>https://Plutoyer.github.io/post/2020-11-22-fen-xiang/</id>
+        <link href="https://Plutoyer.github.io/post/2020-11-22-fen-xiang/">
+        </link>
+        <updated>2020-11-22T12:34:22.000Z</updated>
+        <content type="html"><![CDATA[<p>一、美句分享<br>
+我现在开始不迟到，我现在开始比约会时间早到去等人，因为我知道再也没有一个人会那样地去等我，站在约定的地点左顾右盼，所以现在我在重复着你当年的样子，等待着别人的出现，让一个人看到了有人在左顾右盼地等着自己的时候，他肯定也会觉得幸福吧？我并不是突然想起了你的那件奢侈的衣服，只是我在等人无聊的时候想和你说说话，我又没有很想你。</p>
+<p>二、今日演讲<br>
+<a href="https://open.163.com/newview/movie/free?pid=MFQAL3OR9&amp;mid=MFQALSL9T">如何让人工智能远离人类的偏见</a></p>
+<p>三、今日科普</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhSKLEkrV0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>四、今日推荐</p>
+<ul>
+<li><a href="www.6er.nz">六耳 tv 资源厂</a></li>
+<li><a href="https://ionego.net/">onego 导航：这个导航索引了很多个人搭建的网盘，里面很多网盘资源量大。</a></li>
+<li><a href="https://hao.su/3441/">安卓第三方 rom 下载</a></li>
+<li><a href="https://niao.su/7/">GitHub 下载加速</a></li>
+<li><a href="https://wiby.org/">wiby：一个简单的搜索引擎，界面干净，搜索结果相对精准。</a></li>
+</ul>
+<p>五、今日歌曲</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=538836&auto=0&height=66"></iframe>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日一文（2020-9-24）]]></title>
         <id>https://Plutoyer.github.io/post/mei-ri-yi-wen-2020-9-24/</id>
@@ -259,28 +283,5 @@
 <p>他折好报纸的四角，以便将这捆巨大的包裹扔进垃圾箱，但是首先，他想先为它拍个照。他整理了一下边缘，以便让人可以清楚看到两部分不同报纸上的照片断片，正巧凑和上了。事实上他重新把包裹打开了一点，好让一些反光的纸板伸出来，那是一些撕掉的大照相的碎片。他打开聚光灯；他希望这张相片里被撕掉的被揉碎的影像清晰可辨，同时也能通过那些随意的、漆黑的阴影，显现出它们的不真实，还有，它们作为物质的实体，所具有的意义，那加以它们身上的注意力所从不曾留意的，它们赖以依存的力量。</p>
 <p>为了将所有这些整合于一张相片里，他必须还要学会一项特殊的技巧，但只有这以后，安就不再拍照了。厌倦了每一项可能性，在即将圆满的瞬间里安认识到，拍摄相片是他唯一退出的一课——或是说，这一段时间以来，他一直费解寻找的真正一课。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-9-17分享]]></title>
-        <id>https://Plutoyer.github.io/post/2020-9-17-fen-xiang/</id>
-        <link href="https://Plutoyer.github.io/post/2020-9-17-fen-xiang/">
-        </link>
-        <updated>2020-09-17T05:02:42.000Z</updated>
-        <content type="html"><![CDATA[<p>一、美句分享<br>
-在东方的地平线上，渐渐透出一抹红光，闪烁在碧绿的嘉陵江上。湛蓝的天空，万里无云，绚丽的朝霞，放射出万道光芒。</p>
-<p>二、今日演讲<br>
-<a href="http://open.163.com/newview/movie/free?pid=M78FJJI92&amp;mid=M78FJR5HH">从时装的自由文化里学到的</a></p>
-<p>三、今日科普</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q_k2ubcXgM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>四、今日推荐</p>
-<ul>
-<li><a href="https://1.1.1.1/beta/">1.1.1.1 Beta：Cloudflare Public DNS 1.1.1.1 推出 macOS 和 Windows 上的客户端</a></li>
-<li><a href="https://hao.su/3392/">Mac 免费 NTFS 挂载工具：最全的免费 Mac 硬盘 NTFS 格式挂载工具。</a></li>
-<li><a href="https://mtime.info/">港澳台电视直播：不错的在线港澳台电视直播网站。</a></li>
-<li><a href="https://yose.fun/">免费的文件加密网站：可以理解为网页 AES-256-GCM 加密。</a></li>
-<li><a href="https://www.dogfight360.com/blog/475/">UsbEAm Hosts Editor 多平台 hosts 修改：由羽翼城维护多年的 hosts 修改工具，支持多个平台的加速。</a></li>
-</ul>
-<p>五、今日歌曲</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1376166020&auto=0&height=66"></iframe>]]></content>
     </entry>
 </feed>
